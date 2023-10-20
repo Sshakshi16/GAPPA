@@ -1,4 +1,4 @@
-# Gappa
+# Gappa #
 
 Gappa is an instant messaging app for Android to keep in touch with all your contacts from a remote distance.
 This app is for those people who get fun by socializing ...by chatting.
